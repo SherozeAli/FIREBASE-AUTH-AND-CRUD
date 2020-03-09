@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "539702783147",
+    "firebase_url": "https://registrationandlogin-8c688.firebaseio.com",
+    "project_id": "registrationandlogin-8c688",
+    "storage_bucket": "registrationandlogin-8c688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539702783147:android:5c1e470fec3ad663",
+        "android_client_info": {
+          "package_name": "com.example.escomputer.registrationandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539702783147-tutevamfadie9dn9r642mk61mh0a2d8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsf6pj3C9c_skpOD4ULdIP89CiYNDOprE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
